@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import 'fullpage.js/dist/fullpage.css';
+
+/* Optional CSS reset or custom global styles */
