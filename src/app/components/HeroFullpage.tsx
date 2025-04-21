@@ -25,6 +25,9 @@ export default function HeroFullpage() {
       <div className="section" style={{ background: "url('/one.jpg') center/cover" }} />
       <div className="section" style={{ background: "url('/two.jpg') center/cover" }} />
       <div className="section" style={{ background: "url('/three.jpg') center/cover" }} />
+      <div className="section" style={{ background: "url('/three.jpg') center/cover" }} />
+      <div className="section" style={{ background: "url('/three.jpg') center/cover" }} />
+      <div className="section" style={{ background: "url('/three.jpg') center/cover" }} />
       {/* add more <div className="section">…</div> */}
     </div>
   );

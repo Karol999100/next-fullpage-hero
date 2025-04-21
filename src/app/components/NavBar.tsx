@@ -11,11 +11,12 @@ import {
 } from 'react-icons/fa';
 
 const links = [
-  { label: 'START', href: '#start' },
-  { label: 'O MNIE', href: '#o-mnie' },
-  { label: 'ZDJĘCIA', href: '#zdjecia' },
-  { label: 'OFERTA', href: '#oferta' },
-  { label: 'KONTAKT', href: '#kontakt' }
+  { label: 'START', href: '/' },
+  { label: 'O MNIE', href: '/o-mnie' },
+  { label: 'ZDJĘCIA', href: '/galeria' },
+  { label: 'OFERTA', href: '/oferta' },
+  { label: 'Popularne pytania', href: '/faq' },
+  { label: 'KONTAKT', href: 'kontakt' }
 ];
 
 export default function NavBar() {
